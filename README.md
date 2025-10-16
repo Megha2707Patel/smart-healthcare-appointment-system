@@ -3,7 +3,7 @@
 
 **SmartCare** is a full-stack healthcare appointment and patient management platform designed to streamline interactions between patients and healthcare providers. It offers a complete digital experience — from searching specialists and booking appointments to accessing medical history, prescriptions, and billing — within a unified interface.
 
-🟢 **Live Frontend Demo:** https://smart-healthcare-appointment-system.vercel.app/  
+🟢 **Live Demo:** https://smart-healthcare-appointment-system.vercel.app/  
 🛠 **Backend Architecture:** Node.js, Express.js, PostgreSQL (API-ready)
 
 ---
@@ -80,8 +80,4 @@ The backend of SmartCare is built using **Node.js & Express**, structured to man
 
 
 
-
-
-
-## 🗂 Project Structure
 
